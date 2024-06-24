@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
+
+<defs>
+</defs>
+<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(1.4065934065934016 1.4065934065934016) scale(2.81 2.81)" >
+	<path d="M 59.113 50.408 L 33.219 24.513 c -2.015 -2.014 -5.292 -2.015 -7.308 0 l -1.398 1.398 c -2.015 2.015 -2.015 5.293 0 7.308 l 25.895 25.895 L 59.113 50.408 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+	<polygon points="54.18,61 63.99,63.99 61,54.18 " style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform="  matrix(1 0 0 1 0 0) "/>
+	<path d="M 45 0 C 20.147 0 0 20.147 0 45 c 0 24.853 20.147 45 45 45 s 45 -20.147 45 -45 C 90 20.147 69.853 0 45 0 z M 68.414 68.414 C 68.033 68.795 67.522 69 67 69 c -0.195 0 -0.392 -0.028 -0.583 -0.087 l -16.592 -5.059 c -0.022 -0.007 -0.041 -0.021 -0.063 -0.028 c -0.102 -0.035 -0.201 -0.08 -0.297 -0.132 c -0.038 -0.02 -0.077 -0.037 -0.114 -0.06 c -0.126 -0.079 -0.247 -0.169 -0.357 -0.279 L 21.685 36.047 c -3.574 -3.574 -3.574 -9.39 0 -12.964 l 1.398 -1.398 c 3.574 -3.574 9.39 -3.574 12.964 0 l 27.309 27.309 c 0.11 0.11 0.2 0.231 0.279 0.357 c 0.023 0.037 0.039 0.076 0.06 0.114 c 0.052 0.097 0.097 0.195 0.132 0.297 c 0.008 0.022 0.021 0.041 0.028 0.063 l 5.059 16.592 C 69.129 67.124 68.937 67.892 68.414 68.414 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
+</g>
+</svg>
